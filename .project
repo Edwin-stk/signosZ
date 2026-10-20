@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Ejercicios1.1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/imagenes/ARIESss.SET.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta/CarpetaS/ARIESss.SET.png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Acuario-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Acuario-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Cancer-removebg-preview.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Cancer-removebg-preview.png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Capricornio-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Capricornio-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Escorpio-removebg-preview (2).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Escorpio-removebg-preview%20(2).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Geminis-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Geminis-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Leo-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Leo-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Libra-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Libra-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Piscis-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Piscis-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Sagitario-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Sagitario-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/TAUTO.FOND-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/TAUTO.FOND-removebg-preview%20(1).png</locationURI>
+		</link>
+		<link>
+			<name>src/imagenes/Virgo-removebg-preview (1).png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Desktop/Nueva%20carpeta%20(2)/Virgo-removebg-preview%20(1).png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
